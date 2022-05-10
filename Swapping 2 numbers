@@ -1,0 +1,8 @@
+#include<studio.h>
+main()
+{
+int a,b;
+printf("Enter any two numbers for swapping");
+scanf("%d%d",&a&b);
+return 0;
+}
