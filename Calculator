@@ -1,0 +1,31 @@
+#include<stdio.h>
+int main
+{
+int a,b,c;
+char o;
+printf("enter two numbers for calculation/n");
+scanf("%d%d",&a,&b);
+printf("Enter the operation");
+scanf("%c",&o);
+if (o=='+');
+{
+c=a+b;
+printf("result is %d",c);
+}
+else if (o=='-');
+{
+c=a-b
+printf("result is %d",c);
+}
+else if (o=='*');
+{
+c=a*b
+printf("result is %d",c);
+}
+else (o=='/');
+{
+c=a/b
+printf("result is %d",c);
+}
+result 0
+}
