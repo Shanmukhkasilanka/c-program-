@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr()
+int a
+printf("Enter your marks");
+scanf("%d",&a);
+if (a>=85 && a<=100)?printf("you've got A grade"):if (a>=70)?printf("you've got B grade"):if (a>=55)?printf("you've got C grade"):if (a>=40)?printf("you've got D grade"):printf("sorry you've got F grade");
+getch()
+}
